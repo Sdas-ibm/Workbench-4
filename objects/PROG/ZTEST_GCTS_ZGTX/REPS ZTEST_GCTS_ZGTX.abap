@@ -6,5 +6,5 @@
 REPORT ztest_gcts_zgtx.
 
 WRITE: / 'New program to test gCTS',
-       / 'Code change in Development Branch'.
+       / 'Code change in Development Branch and resume the development',
        / 'Code change done in Hotfix branch'.
